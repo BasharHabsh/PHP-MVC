@@ -1,0 +1,21 @@
+{
+    "name": "ahf-idlib-office/bashar-habsh",
+    "description": "A simple MVC project with login functionality",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AhfIdlibOffice\\BasharHabsh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BasharHabsh",
+            "email": "basharrhabsh@gamil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "^5.6@dev"
+    }
+}
